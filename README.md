@@ -7,3 +7,5 @@
 ## g++ -std=c++11 -pthread BST.cpp
 ## ./a.out 
 
+
+## internal working of a DB
